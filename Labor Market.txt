@@ -1,0 +1,23 @@
+As a Data Analyist you develop tools for data mining, analysis, and data visualization. Also develop scripts to meet the specific data needs of your client.
+
+- Performing SQL queries and web-scraping to explore and extract data from databases and websites.
+- Presenting efficient data analysis from start to finish.
+- Building insightful data visualizations.
+
+https://g.co/kgs/2nAHR3
+https://www.indeed.com/viewjob?jk=068ef6e48e35fbbd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+
+Software developers create and develop software applications that allow people to perform specific tasks on the web, computers, or mobile devices.
+
+- Experience, or at least a working familiarity, with JavaScript, Java, Python, Hands-On SQL
+ 
+https://g.co/kgs/Qv69rg
+https://builtin.com/job/engineer/senior-software-engineer/1060272?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+
+A web developer covers website needs as in writing code with programming languages, testing applications and interfaces, and creates website layouts.
+
+- Work fast and perform well with a seamless user experience
+- HTML, CSS, and JavaScript for the frontend and PHP or Node. js for the backend.
+
+https://g.co/kgs/LukTjZ
+https://www.careerbuilder.com/job/J3M2105YKL1FV6VFXCD?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply
